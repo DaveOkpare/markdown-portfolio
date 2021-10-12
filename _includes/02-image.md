@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![David Okpare](https://avatars.githubusercontent.com/u/19241431?v=4)

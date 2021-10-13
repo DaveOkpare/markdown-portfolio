@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+- Artificial Intelligence
+  * Machine Learning
+  * Deep Learning
+* Software Engineering
+  - Backend Engineering
+  - Frontend Engineering
